@@ -7,9 +7,10 @@
 
 ## **Team Members**
 
-- **RA2011027010101 - Gita Alekhya Paul**
-- **RA1911030010025 - Ratanshi Puri**
-- **RA1911030010030 - Nitish Chaturvedi**
+- **RA2011027010101 - Tanumay Ghosh**
+- **RA2011027010103 - Omisha Singal**
+- **RA2011027010104 - Yashas Dewan**
+- **RA2011027010126 - Akaash Ram**
 
 ## **Abstract**
 
@@ -136,49 +137,3 @@ The project uses Docker to containerize and package the application for easier d
 <tr align="center">
 <td>
 
-**Gita Alekhya Paul**
-
-<p align="center">
-<img src = "https://github.com/gitaalekhyapaul.png"  height="120" alt="Gita Alekhya Paul">
-</p>
-<p align="center">
-<a href = "https://github.com/gitaalekhyapaul"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/gitaalekhyapaul/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
-**Ratanshi Puri**
-
-<p align="center">
-<img src = "https://github.com/Ratanshi.png"  height="120" alt="Ratanshi Puri">
-</p>
-<p align="center">
-<a href = "https://github.com/Ratanshi"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/ratanshi/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
-**Nitish Chaturvedi**
-
-<p align="center">
-<img src = "https://github.com/waterupto.png"  height="120" alt="Nitish Chaturvedi">
-</p>
-<p align="center">
-<a href = "https://github.com/waterupto"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/waterupto/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-</table>
-
----
